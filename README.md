@@ -1,11 +1,11 @@
 <p align="center" style="padding:20px">
     <img src="assets/hi.gif" width="100px">
     <br><br />
-    <ul style="list-style:none;margin: 0 80px;width: 400px">
-        <li style="height:50px">😁 Hey! I’m Lin Yisonger .</li>
-        <li style="height:50px">💼 An ordinary front end engineer.</li>
-        <li style="height:50px">❤ Like new technology.</li>
-    </ul>
+    <div style="padding-left:100px">
+        <p style="height:50px">😁 Hey! I’m Lin Yisonger .</p>
+        <p style="height:50px">💼 An ordinary front end engineer.</p>
+        <p style="height:50px">❤ Like new technology.</p>
+    </div>
 </p>
 <p align="right">
     <a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
